@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://alm7468.github.io/Test-TCDL2025
+
+# Sitemaps
+Sitemap: https://alm7468.github.io/Test-TCDL2025/sitemap.xml
