@@ -2,8 +2,8 @@
   "collection": "https://api.dc.library.northwestern.edu/api/v2/collections/dc70f756-8e30-4724-b50d-591843db2537?as=iiif",
   "devCollection": "https://api.dc.library.northwestern.edu/api/v2/collections/dc70f756-8e30-4724-b50d-591843db2537?as=iiif",
   "featured": [
-    "https://api.dc.library.northwestern.edu/api/v2/works/98718159-7cc2-42ad-bd96-e54d5bf4523c",
-    "https://api.dc.library.northwestern.edu/api/v2/works/bb0157db-bd5e-40bd-aa13-3393184e0ea0"
+    "https://api.dc.library.northwestern.edu/api/v2/works/f5fce89e-f5d7-4b41-ada7-6c5df74a5040?as=iiif",
+    "https://api.dc.library.northwestern.edu/api/v2/works/65255504-ef4c-4717-a07a-4156667cb402?as=iiif"
   ],
   "metadata": ["Date", "Subject"],
   "label": { "none": ["Northwestern University Poster Collection"] },
@@ -12,9 +12,9 @@
   },
   "theme": {
     "defaultTheme": "dark",
-    "accentColor": "plum",
+    "accentColor": "mint",
     "grayColor": "mauve",
     "radius": "medium",
-    "scaling": "110%"
+    "scaling": "100%"
   }
 }
