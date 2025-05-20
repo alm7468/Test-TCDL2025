@@ -1,14 +1,14 @@
 {
-  "collection": "https://api.dc.library.northwestern.edu/api/v2/collections/dc70f756-8e30-4724-b50d-591843db2537?as=iiif",
-  "devCollection": "https://api.dc.library.northwestern.edu/api/v2/collections/dc70f756-8e30-4724-b50d-591843db2537?as=iiif",
+  "collection": "https://digital.lib.utk.edu/assemble/collection/collections/rftacuratedart",
+  "devCollection": "https://digital.lib.utk.edu/assemble/collection/collections/rftacuratedart",
   "featured": [
-    "https://dc.library.northwestern.edu/items/c1569bf1-9bb1-487f-83ac-2bd44fbda26e",
-    "https://dc.library.northwestern.edu/items/d39027f8-8148-4eed-9901-9748fd266de6"
+    "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:18~datastream~TN\/full\/full\/0\/default.jpg",
+    "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:37~datastream~TN\/full\/full\/0\/default.jpg"
   ],
   "metadata": ["Date", "Subject"],
-  "label": { "none": ["Northwestern University Poster Collection"] },
+  "label": { "none": ["Test Collection"] },
   "summary": {
-    "none": ["Northwestern University Poster Collection."]
+    "none": ["Test Collection Content."]
   },
   "theme": {
     "defaultTheme": "dark",
